@@ -1,4 +1,4 @@
-# Offsec
+# Offsec - AKAMAI WAF VALIDATOR
 
 Open Source framework for validating Web Application Firewalls (WAF), API Gateway protections and Akamai security policies.
 
